@@ -2,111 +2,111 @@
 
 data = [
     {
-        question: "Cual de las siguientes opciones corresponden a tipos de Sistemas Operativos Existentes en el mercado.",
+        question: "¿Cuáles son los tres grupos de indígenas más reconocidos en México en los siglos 10 al 16?",
         answers: {
-            a: "Windows, Mac Os, Linux",
-            b: "Office, Word, Excel",
-            c: "Mother Board, Mouse, Teclado",
-            d: "Internet, Servidor, Conexión FTP"
+            a: "Los Mayas, Los Olmecas y Los Toltecas",
+            b: "Los Mexicas, Los Olmecas y Los Zapotecas",
+            c: "Los Toltecas, Los Mayas y Los Aztecas",
+            d: "Los Mixtecas, Los Mayas y Los Mexicas"
         },
-        correctAnswer: "Windows, Mac Os, Linux"
+        correctAnswer: "c"
     },
     {
-        question: "¿Qué programa de ofimática utilizamos para escribir cartas?",
+        question: "¿A qué imperio indígena enfrentó y conquistó el español Hernán Cortés?",
         answers: {
-            a: "Word",
-            b: "Excel",
-            c: "Internet",
-            d: "Pluma y papel"
+            a: "Imperio azteca",
+            b: "Imperio Olmeca",
+            c: "Imperio Mexicas",
+            d: "Imperio Tolteca"
         },
-        correctAnswer: "Word"
+        correctAnswer: "a"
     },
     
     {
-        question: "Cuando realizamos dibujos y hacemos edicion de imagenes en la computadora lo podemos hacer con algunos de estos programas, ¿cuales son?",
+        question: "¿A dónde llega Hernán Cortes y pelea contra los indígenas Mayas ?",
         answers: {
-            a: "Paint",
-            b: "Fireworks",
-            c: "Photoshop",
-            d: "Cualquiera de los 3 anteriores"
+            a: "Puerto de San Juan de Úlua",
+            b: "Península de Yucatán",
+            c: "Villa Rica de la Vera Cruz",
+            d: "Ninguno de los anteriores"
         },
-        correctAnswer: "Cualquiera de los 3 anteriores"
+        correctAnswer: "b"
     },
 
     {
-        question: "Menciona que son los elementos de entrada a un computador.",
+        question: "¿Por qué los Aztecas honraron y trataron tan bien a los españoles?",
         answers: {
-            a: "Son programas en espera al ser ejecutados",
-            b: "Son los que permiten dar entrada al cpu",
-            c: "Son los que te permiten abrir Internet",
-            d: "Google, Yahoo, Gmail"
+            a: "Les cayeron bien",
+            b: "Querían tener más amigos",
+            c: "Porque les regalaban cosas",
+            d: "Sus trajes se parecían mucho a sus dioses"
         },
-        correctAnswer: "Son los que permiten dar entrada al cpu"
+        correctAnswer: "d"
     },
 
     {
-        question: "¿Qué función cree usted que cumplan los dispositivos que están conectados a la computadora?",
+        question: "¿Quién hizo el Grito de Dolores el 16 de septiembre de 1810?",
         answers: {
-            a: "Adornar al computador",
-            b: "Permiten la entrada como la salida de procesos",
-            c: "Permitir el libre acceso al cpu",
-            d: "Sirven para que encienda correctamente una computadora"
+            a: "Vicente Guerrero",
+            b: "José María Morelos y Pavón",
+            c: "Josefa Ortíz de Domínguez",
+            d: "Miguel Hidalgo"
         },
-        correctAnswer: "Permiten la entrada como la salida de procesos"
+        correctAnswer: "b"
     },
 
     {
-        question: "Menciona que son Dispositivos de Almacenamiento",
+        question: "¿Quién sucede a Hidalgo con la revolución mexicana, después de que es fusilado en 1814?",
         answers: {
-            a: "Permiten la comunicación entre los usuarios y la computadora",
-            b: "Proporcionan almacenamiento no volátil de datos y memoria.",
-            c: "Permiten conectar a la computadora con otras a través de una interfaz de red. Entre ellos se pueden mencionar los Modem, Tarjetas de Interfaz de Red,",
-            d: "Esta no es"
+            a: "Vicente Guerrero",
+            b: "José María Morelos y Pavón",
+            c: "Josefa Ortíz de Dominguez",
+            d: "Agustín de Iturbide"
         },
-        correctAnswer: "Proporcionan almacenamiento no volátil de datos y memoria."
+        correctAnswer: "b"
     },
 
     {
-        question: "Indique cuál es la combinación de teclas que sirve para cerrar una ventana.",
+        question: "¿Cuántos años duró la independencia de México?",
         answers: {
-            a: "ALT+F4",
-            b: "CTL+ALT+Z",
-            c: "ENTER",
-            d: "ALT+SHIFT"
+            a: "5 años",
+            b: "3 años",
+            c: "10 años",
+            d: "6 años"
         },
-        correctAnswer: "ALT+F4"
+        correctAnswer: "c"
     },
 
     {
-        question: "Formula que permite sumar los valores desde la celda A1 hasta la celda A33 en Excel.",
+        question: "¿Quién otorga la independencia a México?",
         answers: {
-            a: "=(A1:A33)",
-            b: "=SUMA(A1:A33)",
-            c: "SUMA(A1:A33)",
-            d: "=SUMA(A1+A33)"
+            a: "Maximiliano de Habsburgo",
+            b: "Agustín de Iturbide",
+            c: "Porfirio Díaz",
+            d: "Octavio Paz"
         },
-        correctAnswer: "=SUMA(A1:A33)"
+        correctAnswer: "b"
     },
 
     {
-        question: "Combinación de teclas que despliega el portapapeles de windows",
+        question: "¿En qué año México se convierte en República Federal",
         answers: {
-            a: "Ctrl + Y",
-            b: "Alt + Y",
-            c: "Windows + V",
-            d: "Ctrl + Alt + Shift + Y"
+            a: "1825",
+            b: "1816",
+            c: "1820",
+            d: "1824"
         },
-        correctAnswer: "Windows + V"
+        correctAnswer: "d"
     },
 
     {
-        question: "Julio necesita presentar una monografía y no sabe dónde encontrar información, ¿Qué le sugieres?",
+        question: "¿En qué año se independiza Texas?",
         answers: {
-            a: "Power Point",
-            b: "Microsoft Encarta",
-            c: "Google",
-            d: "No hacerla"
+            a: "1829",
+            b: "1910",
+            c: "1835",
+            d: "1836"
         },
-        correctAnswer: "Google"
+        correctAnswer: "d"
     }
 ];
