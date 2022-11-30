@@ -1,112 +1,83 @@
 
-
 data = [
     {
-        question: "¿Cuáles son los tres grupos de indígenas más reconocidos en México en los siglos 10 al 16?",
-        answers: {
-            a: "Los Mayas, Los Olmecas y Los Toltecas",
-            b: "Los Mexicas, Los Olmecas y Los Zapotecas",
-            c: "Los Toltecas, Los Mayas y Los Aztecas",
-            d: "Los Mixtecas, Los Mayas y Los Mexicas"
+        "question": "¿ESTO ES DE RICARDO?",
+        "answers":{
+            "a": "How To Meet Ladies",
+            "b": "Hilos Temporales Manualmente Labrados",
+            "c": "Hyper Text Markup Languaje",
+            "d": "Hidro Tecnologia Multi Lenguaje"
         },
-        correctAnswer: "c"
+        "correctAnswer": "c"
     },
     {
-        question: "¿A qué imperio indígena enfrentó y conquistó el español Hernán Cortés?",
-        answers: {
-            a: "Imperio azteca",
-            b: "Imperio Olmeca",
-            c: "Imperio Mexicas",
-            d: "Imperio Tolteca"
+        "question": "¿Qué es HTTP?",
+        "answers":{
+            "a": "Hyper Text Transfer Protocol",
+            "b": "Hyper Transfer Text Protocol",
+            "c": "Holo Text Tranfer Protocol",
+            "d": "Holo Tranfer Text Protocol"
         },
-        correctAnswer: "a"
+        "correctAnswer": "a"
     },
-    
     {
-        question: "¿A dónde llega Hernán Cortes y pelea contra los indígenas Mayas ?",
-        answers: {
-            a: "Puerto de San Juan de Úlua",
-            b: "Península de Yucatán",
-            c: "Villa Rica de la Vera Cruz",
-            d: "Ninguno de los anteriores"
+        "question": "¿Qué devuelve (true || false) && (!false) ?",
+        "answers":{
+            "a": "True",
+            "b": "False",
+            "c": "Sintax Error",
+            "d": "trulse"
         },
-        correctAnswer: "b"
+        "correctAnswer": "a"
     },
-
     {
-        question: "¿Por qué los Aztecas honraron y trataron tan bien a los españoles?",
-        answers: {
-            a: "Les cayeron bien",
-            b: "Querían tener más amigos",
-            c: "Porque les regalaban cosas",
-            d: "Sus trajes se parecían mucho a sus dioses"
+        "question": "¿Qué es FTP? ",
+        "answers":{
+            "a": "Fuentes Tipo Pro",
+            "b": "Font Type Pro",
+            "c": "File Transfer Protocol",
+            "d": "Fire Transformation Procces"
         },
-        correctAnswer: "d"
+        "correctAnswer": "c"
     },
-
     {
-        question: "¿Quién hizo el Grito de Dolores el 16 de septiembre de 1810?",
-        answers: {
-            a: "Vicente Guerrero",
-            b: "José María Morelos y Pavón",
-            c: "Josefa Ortíz de Domínguez",
-            d: "Miguel Hidalgo"
+        "question": "¿Qué es MVC? ",
+        "answers":{
+            "a": "Modelos Virtuales Cam",
+            "b": "Modelo Vista Controlador",
+            "c": "Misterios Visiones y Crimenes",
+            "d": "México Va al Campeonato"
         },
-        correctAnswer: "b"
+        "correctAnswer": "b"
     },
-
     {
-        question: "¿Quién sucede a Hidalgo con la revolución mexicana, después de que es fusilado en 1814?",
-        answers: {
-            a: "Vicente Guerrero",
-            b: "José María Morelos y Pavón",
-            c: "Josefa Ortíz de Dominguez",
-            d: "Agustín de Iturbide"
+        "question": "¿Qué es CRUD? ",
+        "answers":{
+            "a": "Conquist and Restore Utilities Domain",
+            "b": "Common Request United Defender",
+            "c": "Cronos Reloaded Unlimited Dream",
+            "d": "Create Read Update Delete"
         },
-        correctAnswer: "b"
+        "correctAnswer": "d"
     },
-
     {
-        question: "¿Cuántos años duró la independencia de México?",
-        answers: {
-            a: "5 años",
-            b: "3 años",
-            c: "10 años",
-            d: "6 años"
+        "question": "¿Qué es LAN? ",
+        "answers":{
+            "a": "Local Area Network",
+            "b": "Legent Access Nation",
+            "c": "Linghtning Advantage Network",
+            "d": "Lime Aqua Neon"
         },
-        correctAnswer: "c"
+        "correctAnswer": "a"
     },
-
     {
-        question: "¿Quién otorga la independencia a México?",
-        answers: {
-            a: "Maximiliano de Habsburgo",
-            b: "Agustín de Iturbide",
-            c: "Porfirio Díaz",
-            d: "Octavio Paz"
+        "question": "¿Cuál de estos no es un lenguaje de programación? ",
+        "answers":{
+            "a": "JavaScript",
+            "b": "Java",
+            "c": "BrainFuck",
+            "d": "HTML"
         },
-        correctAnswer: "b"
-    },
-
-    {
-        question: "¿En qué año México se convierte en República Federal",
-        answers: {
-            a: "1825",
-            b: "1816",
-            c: "1820",
-            d: "1824"
-        },
-        correctAnswer: "d"
-    },
-
-    {
-        question: "¿En qué año se independiza Texas?",
-        answers: {
-            a: "1829",
-            b: "1910",
-            c: "1835",
-            d: "1836"
-        },
-        correctAnswer: "d"
+        "correctAnswer": "d"
     }
 ];

@@ -6,6 +6,7 @@ function htmlMenu() {
   menudismiss.addEventListener("click", dismissMenu);
 }
 
+
 function displayMenu() {
   const menubox = document.getElementById("menubox");
   if (menubox.style.display == "block") {
@@ -15,10 +16,11 @@ function displayMenu() {
   }
 }
 
+
 function dismissMenu() {
   const menubox = document.getElementById("menubox");
   menubox.style.display = "none";
 }
 
-htmlMenu();
 
+htmlMenu();

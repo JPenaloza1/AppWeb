@@ -31,6 +31,10 @@ function initializeClock(id, endtime) {
         minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
         secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
 
+        if(tryAgainButton.style.display == 'inline-block'){
+            return;
+        }
+
         if (t.total <= 0) {
 
             clearInterval(timeinterval);
@@ -62,7 +66,7 @@ function resetQuiz(){
     
 
 
-const deadline = new Date(Date.parse(new Date()) + 180 * 1000);
+const deadline = new Date(Date.parse(new Date()) + 3 * 60  * 1000);
 initializeClock('clockdiv', deadline);
 tryAgainButton.addEventListener("click", resetQuiz);
 
